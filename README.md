@@ -1,9 +1,9 @@
 PROJECT CARS
 
-This project was created with IntelliJ IDEA IDE.
+This project was created with IntelliJ IDEA IDE. And can be run via this IDE.
 
-WARNING:
-Due to an existing error with gson and java modules: https://stackoverflow.com/questions/50877484/java-sql-time-exception to run this project it is necessary to build project manually with maven and then use a console to compile and run the project.
+To run the project manually follow these steps.
+
 Steps:
 1. Build the project using "mvn install" command - this should generate seperate jars from modules as result.
 2. To combine them use command: "mvn clean compile assembly:single" in terminal in directory of pom.xml from menu module.
