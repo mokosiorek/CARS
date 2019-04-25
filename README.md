@@ -2,7 +2,7 @@ PROJECT CARS
 
 This project was created with IntelliJ IDEA IDE. And can be run via this IDE.
 
-To run the project manually follow these steps.
+To run the project manually with maven and java compiler follow these steps.
 
 Steps:
 1. Build the project using "mvn install" command - this should generate seperate jars from modules as result.
